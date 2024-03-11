@@ -1,0 +1,3 @@
+# kodi
+13.224.163.120  api.themoviedb.org
+13.224.163.120  image.tmdb.org
